@@ -1,0 +1,42 @@
+
+body{
+    background: linear-gradient(pink,lightgreen,orange);
+}
+
+.box{
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    border-color: aqua;
+    border-style: solid;
+    padding: 20px;
+    border-radius: 10px;
+}
+input{ 
+    border-radius: 10px;
+    border-color: aquamarine;
+}
+.label{
+    border-radius: 10px;
+}
+button{
+
+    border-radius: 20%;
+    background: linear-gradient(to right,lightgreen,blue,crimson);
+    width: 200px;
+}
+.body{
+     justify-content: center;
+align-items: center;
+display: flex;
+padding: 100px;
+margin: auto;
+
+}
+h1{
+    text-align: center;
+    padding-top:50px;
+    font-size: 70px;
+    color: aqua;
+    background: linear-gradient(200deg,red,blue,yellow); 
+}
